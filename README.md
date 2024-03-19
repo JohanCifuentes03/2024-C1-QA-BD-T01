@@ -26,12 +26,12 @@ para ello pretende modelar su necesidad con un diagrama E-R”*
 6. Emplear al menos tres relaciones uno a muchos y/o muchos a uno.
 7. Utilizar la tabla notaciones MER para la elaboración del diagrama
 8. Elaborar el diagrama E-R en la aplicación día agregar el archivo con extensión (.dia).
-9. Elaborar un documento PDF con la imagen de la solución del punto 1 y la explicación de la solución agregando todas
+9. Elaborar un documento PDF con la imagen de la solución desde el punto 1 y la explicación de la solución agregando todas
    las condiciones que empleo para lograrlo.
 
 ## Entrega:
 
-- Hora máxima de entrega 4:55 PM
+- Hora máxima de entrega 25 de marzo 6:00 AM
 - El repositorio debe contener por lo menos dos archivos (PDF y diagrama)
 - PR apuntando a la rama solución indicando su nombre completo.
 
